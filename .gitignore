@@ -1,0 +1,8 @@
+rrtm_lw.x
+*~
+*.obj
+era5/INPUT_RRTM
+era5/OUTPUT_RRTM
+era5/rrtm_lw.nc
+era5/TAPE?
+
