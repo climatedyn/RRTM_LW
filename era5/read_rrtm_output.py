@@ -1,7 +1,6 @@
 #!env python
 
 import pandas as pd
-from matplotlib import pyplot as plt
 
 with open('OUTPUT_RRTM','r') as f:
     lnes = f.readlines()
